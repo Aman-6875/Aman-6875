@@ -14,6 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-programming.png"/><img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/java-coffee-cup-logo--v1.png"/><img src="https://img.icons8.com/color/48/4a90e2/visual-studio-code-2019.png"/><img src="https://img.icons8.com/color/48/4a90e2/git.png"/><img src="https://img.icons8.com/fluent/48/4a90e2/github.png"/> </p>
+
+<br>
+<br>
+
+![github graph](https://activity-graph.herokuapp.com/graph?username=Aman-6875&theme=react-dark)
+
+---
 <div align="center"> 
   
   ![Visitors](https://gpvc.arturio.dev/Aman-6875) 
